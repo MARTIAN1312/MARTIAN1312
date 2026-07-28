@@ -2,8 +2,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I'm currently working on **side projects while learning new MERN concepts**
-- 🌱 I'm currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🔭 I'm currently working on **Full Stack MERN projects**
+- 🌱 I have completed **MERN Stack Web Development** and am now building real-world projects
+- 🎓 B.Tech CSE (3rd Year) at **Delhi Technical Campus, Greater Noida** | Affiliated to GGSIPU
 - 📫 How to reach me: **sarthakdubey704@gmail.com**
 
 ---
